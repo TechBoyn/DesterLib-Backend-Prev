@@ -7,6 +7,8 @@
 
 ### Create an application on auth0 [Single Page Application]
 
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/f2ioHN)
+
 Application Login URI = blank
 
 Allowed Callback URLs = frontend url [recommended to host it on vercel for now] example: https://app.vercel.app [without trailing slash]
