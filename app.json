@@ -10,7 +10,7 @@
     },
     "LIBDRIVE_CLOUD": {
       "description": "The ID of any empty Google Drive folder. This folder will be used to store the config and AUTO generated metadata",
-      "value": ""
+      "value": "",
       "required": false
     },
     "PINGER": {
