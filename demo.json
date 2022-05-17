@@ -1,0 +1,301 @@
+{
+    "access_token": "ya29.a0ARrdaM-AVL8bQBan1VtjgB2c5WI2hR4I7CeO4nGUNPvkiRoYYY_1zQ1va2myAN37hJEjEjuOtXTWigeoOkrujXznvgW2avUV9rtynXwRCC63RWd0e1b9ka8WCkkw-EhmgSyyUspacR7GWGZoWWV85DLHwsrv9Co",
+    "account_list": [
+        {
+            "auth": "e26zwojkv1je24o6u8ixjpa2tkftndr511l1ascle3j1wdy5zr",
+            "password": "#@Prohordas0348",
+            "pic": "https://www.pinclipart.com/picdir/big/10-107303_doraemon-clipart-psd-download-gambar-doraemon-hd-png.png",
+            "username": "ProhorDas"
+        },
+        {
+            "auth": "c800fphwcsyqc1jnwjp4zokitcyrcnpxic43g6zogn4p8n8ycg",
+            "password": "#@Techboy0348",
+            "pic": "https://www.pinclipart.com/picdir/big/10-107303_doraemon-clipart-psd-download-gambar-doraemon-hd-png.png",
+            "username": "TechBoy"
+        },
+        {
+            "auth": "c800fphwcsyqc1jnwjp4zokitcyrcnpxic43g6zogn4p8n8ycg",
+            "password": "10minschool",
+            "pic": "https://cosmicworld.techboyn.workers.dev/0:/10mslogo-svg.png",
+            "username": "10minschool"
+        },
+        {
+            "auth": "c800fphwcsyqc1jnwjp4zokitcyrcnpxic43g6zogn4p8n8ycg",
+            "password": "stjhsk123",
+            "pic": "https://cosmicworld.techboyn.workers.dev/0:/logo2.jpg",
+            "username": "stjhsk123"
+        },
+        {
+            "auth": "2eeaq5xjunvk1a4h2mlnc0k0jxpbraqqus2gzzw43syp59ip8i",
+            "password": "Arnob1007",
+            "pic": "",
+            "username": "Tahsan Ferdous"
+        },
+        {
+            "auth": "q7vwkeapryw0y0va3w4wcwer8uz1qtdwyoudgjc8pf5fi9su6m",
+            "password": "Nabil",
+            "pic": "",
+            "username": "Tahsan"
+        },
+        {
+            "auth": "rz9kr123hamckb0btbrboykxk2hviq0f4adgk2hz9696acyt76",
+            "password": "siam123456789",
+            "pic": "",
+            "username": "siam2007"
+        },
+        {
+            "auth": "2z3yr5t3d3wahrkdd53fxf5aywk2rads5t4jm2t32sy1kz8rnr",
+            "password": "10minscholl",
+            "pic": "",
+            "username": "Meem"
+        },
+        {
+            "auth": "nsp68rdgkmx9g7lx4k7n0yvcv1nk15r93vn4jtdkpjof26swsh",
+            "password": "01minschool",
+            "pic": "",
+            "username": "meem"
+        },
+        {
+            "auth": "xhcyvlgvm6tall2pndz105hpkpmg26j320t0tj9g4j6ziexc0r",
+            "password": "shikhor",
+            "pic": "",
+            "username": "313136"
+        },
+        {
+            "auth": "9v739bb03onjpwbdoeoc9gzovc925w1j566d3868y44xzhakm4",
+            "password": "shikhor",
+            "pic": "",
+            "username": "Shikhor "
+        },
+        {
+            "auth": "yrbmuphvrdi2uckq83ojr9yp0kr1tyo7tuakbol3rk4irv1fkx",
+            "password": "arosharo",
+            "pic": "",
+            "username": "Mukta"
+        },
+        {
+            "auth": "svxu1s8i2w4e9lvidfo83cf6139xd7kvemx870dy7ooxyolcfh",
+            "password": "nabil",
+            "pic": "",
+            "username": "thasan"
+        },
+        {
+            "auth": "ran8a4jcr1cq58cmk5bctdzuz039vxswr6q7ff73nwxo1y0eys",
+            "password": "arosh13",
+            "pic": "",
+            "username": "arosh"
+        },
+        {
+            "auth": "km8ycv15aen65b9ho83j617a79dss9ra1qiq20pzoilljbgi2a",
+            "password": "arosh13",
+            "pic": "",
+            "username": "Arosh"
+        }
+    ],
+    "adult": "false",
+    "arcio": "dev",
+    "auth": "true",
+    "build_interval": 360,
+    "build_type": "full",
+    "category_list": [
+        {
+            "adult": false,
+            "anilist": false,
+            "id": "1duL5UOlVnI-UnfdOhGwRXb-HcNC-G0Nr",
+            "language": "en",
+            "name": "Doraemon Movies",
+            "type": "Movies"
+        },
+        {
+            "adult": false,
+            "anilist": false,
+            "id": "1ASxh9TSBJuUiM0lXKuD-Je5ZUpoJIYS1",
+            "language": "en",
+            "name": "Doraemon  Series",
+            "type": "TV Shows"
+        },
+        {
+            "adult": false,
+            "anilist": false,
+            "id": "1gzql9sAdGjArez6SfTcTZEN2DjvGYx84",
+            "language": "en",
+            "name": "Ninja Hattori Series",
+            "type": "TV Shows"
+        },
+        {
+            "adult": false,
+            "anilist": false,
+            "id": "1RwfSAe0mwawV2sZBGpvxD2IM_dWxN-ih",
+            "language": "en",
+            "name": "Shin-Chan Series",
+            "type": "TV Shows"
+        },
+        {
+            "adult": false,
+            "anilist": false,
+            "id": "1XJJKpq10eMeYegdjbpd2Vn5PIj6lPDBk",
+            "language": "en",
+            "name": "Jumanji Movies",
+            "type": "Movies"
+        },
+        {
+            "adult": false,
+            "anilist": false,
+            "id": "1XCpRxa1Kvs7NOZHuFe8hgY4yjzAR157h",
+            "language": "en",
+            "name": "Spider-Man Movies",
+            "type": "Movies"
+        },
+        {
+            "adult": false,
+            "anilist": false,
+            "id": "1gfqA4A6Q_69p_vVAfBgxRtDGTpcsdRhi",
+            "language": "en",
+            "name": "Transformers Movies",
+            "type": "Movies"
+        },
+        {
+            "adult": false,
+            "anilist": false,
+            "id": "1X4yQX8PlERg8KZi6wGWXMmibonPuaAJ1",
+            "language": "en",
+            "name": "Home Alone Movies",
+            "type": "Movies"
+        },
+        {
+            "adult": false,
+            "anilist": false,
+            "id": "1EB9pRZL5a0sM866yn-AmO4HeO__VFgN-",
+            "language": "en",
+            "name": "Mr. Bean Movies",
+            "type": "Movies"
+        },
+        {
+            "adult": false,
+            "anilist": false,
+            "id": "1giK9jUaagXqJIqmjGqOhVnpBWF_LIcOh",
+            "language": "en",
+            "name": "Harry Potter Movies",
+            "type": "Movies"
+        },
+        {
+            "adult": false,
+            "anilist": false,
+            "id": "1Lmwo2HynpHgurqj_QUsWOStGwuXC2DWC",
+            "language": "en",
+            "name": "Despicable Me Movies",
+            "type": "Movies"
+        },
+        {
+            "adult": false,
+            "anilist": false,
+            "id": "1XO8r3t0tslEb0HswY1pC_Da_nEvAjZag",
+            "language": "en",
+            "name": "Frozen Movies",
+            "type": "Movies"
+        },
+        {
+            "adult": false,
+            "anilist": false,
+            "id": "1gwBe3C9DA4uoBtJFaK9GR01qmrnjv2NM",
+            "language": "en",
+            "name": "Hotel Transylvania Movies",
+            "type": "Movies"
+        },
+        {
+            "adult": false,
+            "anilist": false,
+            "id": "1mPEBa5VLPXnThS3P7LclpJcEy8TPO69I",
+            "language": "en",
+            "name": "Jungle Book Movies",
+            "type": "Movies"
+        },
+        {
+            "adult": false,
+            "anilist": false,
+            "id": "1VqHDiZRHeo76D-DpZPW6ds2LYrwUkf4T",
+            "language": "en",
+            "name": "Minions Movies",
+            "type": "Movies"
+        },
+        {
+            "adult": false,
+            "anilist": false,
+            "id": "1qymaXTZtpanU-5r9a376fb21Ms4buc7f",
+            "language": "en",
+            "name": "Sing Movies",
+            "type": "Movies"
+        },
+        {
+            "adult": false,
+            "anilist": false,
+            "id": "1XahQ3ibFXPa014nmRRBftdQ0to4Mq4-T",
+            "language": "en",
+            "name": "Spider-Man Animation Movies",
+            "type": "Movies"
+        },
+        {
+            "adult": false,
+            "anilist": false,
+            "id": "1h9O8AaNCrXD9i8KD1oJg_re-4TAkoDzE",
+            "language": "en",
+            "name": "The Boss Baby Movies",
+            "type": "Movies"
+        },
+        {
+            "adult": false,
+            "anilist": false,
+            "id": "1Gi4NO7W-CMXmKA3eF_1HOQbQRHHPTSgj",
+            "language": "en",
+            "name": "The Smurfs Movies",
+            "type": "Movies"
+        },
+        {
+            "adult": false,
+            "anilist": false,
+            "id": "1Zrwq-PIRt0VHzsURMEfkTOsRQREfrV63",
+            "language": "en",
+            "name": "Toy Story Movies",
+            "type": "Movies"
+        },
+        {
+            "adult": false,
+            "anilist": false,
+            "id": "1I0Jtv5miJURM6pY6aNE0aaUTrohZRJ8b",
+            "language": "en",
+            "name": "Zootopia Movies",
+            "type": "Movies"
+        },
+        {
+            "adult": false,
+            "anilist": false,
+            "id": "1YQ0MsvNp0ijBusAimLs2S59uH5hvbjnv",
+            "language": "en",
+            "name": "Animation Movies",
+            "type": "Movies"
+        }
+    ],
+    "client_id": "994017801865-1mn7psvgjv4rr6oad5sqq81lk2ro2r9b.apps.googleusercontent.com",
+    "client_secret": "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",
+    "cloudflare": "https://animelover.techboyn.workers.dev",
+    "fetch_assets": true,
+    "prefer_mkv": true,
+    "prefer_mp4": "true",
+    "refresh_token": "1//0gek7ov9lcoLICgYIARAAGBASNwF-L9IrAUcsqnhQFs3nEItY5SM7CY0_jyXoE75sPLHY76EWx10dWz-QGfBlEcNxwo5B5yQMOKo",
+    "remove_duplicates": true,
+    "remove_no_poster": true,
+    "secret_key": "ProhorDas",
+    "service_accounts": [],
+    "signup": true,
+    "subtitles": false,
+    "tmdb_api_key": "b6271d284fecd5ef03f4d21220099831",
+    "token_expiry": "2022-05-15 12:10:43.178088",
+    "transcoded": "true",
+    "ui_config": {
+        "custom_button": {},
+        "hide_news": true,
+        "icon": "https://www.pinclipart.com/picdir/big/10-107303_doraemon-clipart-psd-download-gambar-doraemon-hd-png.png",
+        "icon_on_nav": true,
+        "title": "animelover"
+    }
+}
