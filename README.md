@@ -7,8 +7,6 @@
 
 ### Create an application on auth0 [Single Page Application]
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/f2ioHN)
-
 Application Login URI = blank
 
 Allowed Callback URLs = frontend url [recommended to host it on vercel for now] example: https://app.vercel.app [without trailing slash]
@@ -38,5 +36,12 @@ Identifier = just for reference any random domain but recommended to use your ow
 #### Add a Permission
 
 read:current_user
+
+### Deployment
+
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/f2ioHN)
+
+<p><a href="https://heroku.com/deploy"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
+
 
 
