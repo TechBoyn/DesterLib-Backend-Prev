@@ -21,8 +21,6 @@ Allowed Origins (CORS) = blank
 
 `Settings`
 
-<p><a href="https://heroku.com/deploy"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
-
 Identifier = just for reference any random domain but recommended to use your own even https://google.com will work
 
 > RBAC Settings
